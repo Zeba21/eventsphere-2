@@ -1,0 +1,12 @@
+{
+  "name": "eventsphere",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "install:all": "cd backend && npm install && cd ../frontend && npm install",
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm start",
+    "build:frontend": "cd frontend && npm run build",
+    "setup": "npm run install:all && echo '\n✅ Setup complete! Now:\n1. Create your PostgreSQL database\n2. Run backend/config/schema.sql\n3. Copy backend/.env.example to backend/.env and fill values\n4. Copy frontend/.env.example to frontend/.env and fill values\n5. npm run dev:backend (terminal 1)\n6. npm run dev:frontend (terminal 2)'"
+  }
+}

@@ -103,11 +103,6 @@ npm start
 
  Dark Mode (Hero) | Light Mode (Dashboard) |
 
-        
- ![Hero Dark](https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=400&q=80) |
-
- ![Dashboard Light](https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400&q=80) |
-
 
 
 **The current version of EventSphere serves as a robust MVP (Minimum Viable Product). The core backend architecture and database schemas are fully integrated to ensure that event creation, team code generation, and registration flows work seamlessly out of the box.**

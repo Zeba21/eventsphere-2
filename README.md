@@ -1,3 +1,5 @@
+### TASK 2: FULL STACK DEVELOPMENT - TEAM REGISTRATION SYSTEM
+
 # EventSphere
 
 ### Where College Events Come Alive
